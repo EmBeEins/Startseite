@@ -1,0 +1,3 @@
+Webcam Haus Roth,https://www.youtube.com/watch?v=HXnlOrHPAMQ
+Westerland HD,https://ch-net.livespotting.com/windit-edge/smil:vv216.smil/playlist.m3u8
+Rantum HD,https://ch-net.livespotting.com/windit-edge/smil:vv217.smil/playlist.m3u8
