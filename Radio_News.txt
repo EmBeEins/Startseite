@@ -1,0 +1,6 @@
+EinsLive,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3
+Antenne Unna,https://antenneunnanews.lokalradioservices.de/lokalnews.mp3
+Radio 91.2,http://radio912web.lokalradioservices.de/news/lokalnews.mp3
+DLR Nachrichten,http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3
+DLR Presseschau,http://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3
+WDR Vera,https://vera-lh.akamaihd.net/i/wdr_vera@384709/master.m3u8
