@@ -1,3 +1,13 @@
 Webcam Haus Roth,https://www.youtube.com/watch?v=HXnlOrHPAMQ
-Westerland HD,https://ch-net.livespotting.com/windit-edge/smil:vv216.smil/playlist.m3u8
-Rantum HD,https://ch-net.livespotting.com/windit-edge/smil:vv217.smil/playlist.m3u8
+Westerland,https://ch-net.livespotting.com/windit-edge/smil:vv216.smil/playlist.m3u8
+Rantum,https://ch-net.livespotting.com/windit-edge/smil:vv217.smil/playlist.m3u8
+Hörnum,https://ch-net.livespotting.com/windit-edge/smil:vv7.smil/playlist.m3u8
+Weststrandhalle HD,https://srv-webcam-01.nordwind-ev.de/hls/weststrandhalle.m3u8
+Keitum,https://youtu.be/Ae5aSiDX5B4
+Rantum,https://www.youtube.com/watch?v=kry5tcSiBSg
+Westerland(Foto),http://gastgeber-sylt.de/webcam/flashcam.php
+Westerland Musikmuschel (Foto),http://www.la-fewo.de/files/Webcam/INSTAR.html
+Westerland Flughafen (Foto),http://www.flughafen-sylt.de/fileadmin/cam2/webcamgat.jpg
+Autozug Niebüll (Foto),http://217.92.225.121/webcam_nb.html
+Autozug Westerland (Foto),http://www.sylter-freizeit-team.de/webcamWE.jpg
+Webcam Center,https://www.insel-sylt.de/webcam-center/
