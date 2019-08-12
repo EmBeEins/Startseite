@@ -2,4 +2,4 @@ y,Welt,http://www.welt.de
 y,BILD,http://www.bild.de
 y,Focus Online,http://www.focus.de
 y,Der Spiegel,http://www.spiegel.de
-y,Der Spiegel,http://www.spiegel.de
+y,Stern.de,https://www.stern.de
