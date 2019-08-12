@@ -1,1 +1,5 @@
-Auto,1Live Nachrichten,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3
+Auto,Parkleitsystem Dortmund,http://geoweb1.digistadtdo.de/OWSServiceProxy/client/parken.jsp
+Auto,ACE Online,http://www.ace-online.de
+Auto,ADAC,http://www.adac.de
+Auto,Autoscout24,http://fahrzeuge.autoscout24.de/?atype=C&make=47&mmvco=1&version=taxi&mmvmk0=47&fuel=D&fregfrom=2015&bcol=11&cy=D&ustate=N%2CU&dtr=s
+Auto,Mobile.de,http://www.mobile.de/
