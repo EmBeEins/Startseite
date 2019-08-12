@@ -1,1 +1,4 @@
-Webcams,3Live Nachrichten,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3
+Webcams,Scheveningen Pier,https://59f185ece6219.streamlock.net/live/_definst_/sys6.stream/playlist.m3u8
+Webcams,Scheveningen Boulevard,http://stream1.streamink.nl/live/sys1.stream/playlist.m3u8
+Webcam,Flughafen Dortmund (Ost),http://stream-5gw.1000eyes.de/cupertino/doF4F2A4.stream/playlist.m3u8
+Webcam,Flughafen Dortmund (West),http://stream-5gw.1000eyes.de/cupertino/doF4F29C.stream/playlist.m3u8
