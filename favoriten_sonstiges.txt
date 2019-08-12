@@ -1,1 +1,4 @@
-Radio,2Live Nachrichten,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3
+x,Tecson Heizölpreise,http://www.tecson.de/pheizoel.html
+x,Mobene Heizölpreise,https://www.mobene.de/heizoel/heizoelpreise/nordrhein-westfalen/kamen/59174.html
+x,Techniker Krankenkasse,http://www.tk.de
+x,Postbank,http://www.postbank.de
