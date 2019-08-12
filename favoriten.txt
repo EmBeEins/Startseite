@@ -1,0 +1,3 @@
+Radio,1Live Nachrichten,http://ondemand.wdr.de/radio/nachrichten/nachrichten_1live.mp3
+Radio,Deutschlandradio Nachrichten,http://ondemand-mp3.dradio.de/file/dradio/nachrichten/nachrichten.mp3
+Radio,Deutschlandradio Presseschau,http://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3
