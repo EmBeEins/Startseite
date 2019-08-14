@@ -1,1 +1,3 @@
 x,Regenradar,https://www.meteopool.org/de/livemap
+x,Kachelmannwetter,https://kachelmannwetter.com/de/wetter/2825009-suedkamen
+x,ElTiempo Gran Canaria,https://www.eltiempo.es/maspalomas.html
