@@ -5,3 +5,4 @@ Webcam,Flughafen Dortmund (West),http://stream-5gw.1000eyes.de/cupertino/doF4F29
 x,Flughafen Düsseldorf (Terminal),http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
 x,Flughafen Düsseldorf (Abfertigung),https://stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8
 x,Flughafen Düsseldorf (Vorfeld),https://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8
+x,Flughafen Düsseldorf (Flugbetrieb),https://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8
