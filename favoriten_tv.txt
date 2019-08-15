@@ -1,0 +1,1 @@
+x,RTL West HD,https://rtl_west-i.akamaihd.net/hls/live/656246/rtlwest/master.m3u8
