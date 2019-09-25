@@ -4,4 +4,4 @@ y,Focus Online,http://www.focus.de
 y,Der Spiegel,http://www.spiegel.de
 y,Stern.de,https://www.stern.de
 y,Welt,http://www.welt.de
-x,https://emag.lokalkompass.de/titles/wvw/11384/archive
+x,Stadtspiegel Kamen,https://emag.lokalkompass.de/titles/wvw/11384/archive
