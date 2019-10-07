@@ -5,3 +5,4 @@ x,Techniker Krankenkasse,http://www.tk.de
 x,Postbank,http://www.postbank.de
 x,Abfahrt Kamen Bf,https://iris.noncd.db.de/wbt/js/index.html?typ=ab&style=ab&bhf=EKAM
 x,Ankunft Kamen Bf,https://iris.noncd.db.de/wbt/js/index.html?typ=an&style=an&bhf=EKAM
+x,Speedport Info, http://192.168.2.1/html/login/status.html?lang=de
